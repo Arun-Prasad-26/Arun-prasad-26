@@ -25,10 +25,7 @@ I’m a passionate Power BI Developer interested in transforming data into meani
 ## 📌 Featured Projects
 
 * 📈 Power BI Sales Dashboard
-* 💰 Financial Analytics Dashboard
-* 👥 HR Analytics Dashboard
-* 🛒 E-Commerce Analytics Dashboard
-* 🌾 Farming Made Easy Using Machine Learning
+*🚥 Blink it project 
 
 ## 🔗 Connect With Me
 
