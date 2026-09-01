@@ -4,9 +4,7 @@
 
 I’m a passionate Power BI Developer interested in transforming data into meaningful insights through interactive dashboards and data visualization.
 
-## 🚀 Portfolio & Projects
-
-🌐 **[View My Power BI Portfolio & Projects](https://arunprasad.github.io/)**
+## 🚀 Projects
 
 💻 **[View My GitHub Projects](https://github.com/Arun-Prasad-26)**
 
@@ -28,7 +26,5 @@ I’m a passionate Power BI Developer interested in transforming data into meani
 *🚥 Blink it project 
 
 ## 🔗 Connect With Me
-
-🌐 **Portfolio:** https://arunprasad.github.io/
 💻 **GitHub:** https://github.com/Arun-Prasad-26
 🔗 **LinkedIn:** https://www.linkedin.com/in/arun-prasad-chelukala-b6379a325/
