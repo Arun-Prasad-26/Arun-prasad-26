@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Arun Prasad
 
-<!--
-**Arun-Prasad-26/Arun-prasad-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Power BI Developer | Data Analyst
 
-Here are some ideas to get you started:
+I’m a passionate Power BI Developer interested in transforming data into meaningful insights through interactive dashboards and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Portfolio & Projects
+
+🌐 **[View My Power BI Portfolio & Projects](https://arunprasad.github.io/)**
+
+💻 **[View My GitHub Projects](https://github.com/Arun-Prasad-26)**
+
+## 🛠️ Skills
+
+* Power BI
+* DAX
+* Power Query
+* SQL
+* Excel
+* Data Visualization
+* Data Modeling
+* Dashboard Development
+* ETL & Data Transformation
+
+## 📌 Featured Projects
+
+* 📈 Power BI Sales Dashboard
+* 💰 Financial Analytics Dashboard
+* 👥 HR Analytics Dashboard
+* 🛒 E-Commerce Analytics Dashboard
+* 🌾 Farming Made Easy Using Machine Learning
+
+## 🔗 Connect With Me
+
+🌐 **Portfolio:** https://arunprasad.github.io/
+💻 **GitHub:** https://github.com/Arun-Prasad-26
+🔗 **LinkedIn:** https://www.linkedin.com/in/arun-prasad-chelukala-b6379a325/
